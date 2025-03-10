@@ -1,24 +1,24 @@
 # API and Backend
-fastapi==0.103.1
-uvicorn==0.23.2
-pydantic==2.4.2
-python-dotenv==1.0.0
+fastapi
+uvicorn
+pydantic
+python-dotenv
 
 # Database
-pymongo==4.5.0
+pymongo
 
 # ML and Vector Search
-faiss-cpu==1.7.4
-transformers==4.33.2
-torch==2.0.1
-numpy==1.25.2
+faiss-cpu
+transformers
+torch
+numpy
 
 # Frontend
-streamlit==1.26.0
+streamlit
 
 # API Integration
-requests==2.31.0
-beautifulsoup4==4.12.2
+requests
+beautifulsoup4
 
 # Claude Integration
-anthropic==0.5.0
+anthropic
