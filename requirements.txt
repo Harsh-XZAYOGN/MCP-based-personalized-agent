@@ -10,7 +10,7 @@ pymongo==4.5.0
 # ML and Vector Search
 faiss-cpu==1.7.4
 transformers==4.33.2
-torch==2.0.1
+torch==2.3.0
 numpy==1.25.2
 
 # Frontend
